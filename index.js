@@ -27,7 +27,7 @@ function makeInt(n){
 }
 //Decimal
 function preserveDecimal(n){
-  console('Oomkar')
+ console.log('Oomkar')
  console.log(parseFloat(n) )
  return parseFloat(n) 
 }
