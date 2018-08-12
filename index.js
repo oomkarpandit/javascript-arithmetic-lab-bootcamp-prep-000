@@ -27,5 +27,6 @@ function makeInt(n){
 }
 //parseInt func with base of 10
 function preserveDecimal(n){
+ console.log(parseFloat(n) )
  return parseFloat(n) 
 }
