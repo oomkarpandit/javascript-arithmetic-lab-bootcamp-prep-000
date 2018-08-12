@@ -1,5 +1,6 @@
 //add
 function add(a,b){
+console.log('In add')
   return a+b
 }
 //subtract
