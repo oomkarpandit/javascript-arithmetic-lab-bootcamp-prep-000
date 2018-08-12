@@ -13,3 +13,7 @@ function multiply(a,b){
 function divide(a,b){
   return a/b
 }
+//increment function
+function inc(n){
+ return ++n
+}
