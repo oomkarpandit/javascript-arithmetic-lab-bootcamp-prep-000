@@ -23,11 +23,12 @@ function dec(n){
 }
 //parseInt function
 function makeInt(n){
+  console.log('In ParseINT')
   return parseInt(n,10)
 }
 //Decimal
 function preserveDecimal(n){
- console.log('Oomkar')
+ console.log('In preserveDecimal')
  console.log(parseFloat(n) )
  return parseFloat(n) 
 }
